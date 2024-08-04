@@ -9,7 +9,6 @@ COPY requirements.txt .
 # Update pip
 RUN pip install --upgrade pip
 
-
 RUN apt-get update && apt-get install -y libpq-dev
 
 # Install the dependencies
