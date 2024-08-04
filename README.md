@@ -38,3 +38,13 @@ Start the project using the appropriate command. For example
 
 python manage.py runserver
 
+
+Step 9: Swagger Documentation
+
+To view the Swagger documentation, start the project and navigate to the following URL in your web browser
+
+http://localhost:8000/swagger
+
+Replace 8000 with the port number specified in your project's configuration.
+
+*NOTE - Swagger provides an interactive API documentation that allows you to explore and test your APIs directly from the browser. This eliminates the need for tools like Postman, as you can easily check and interact with the APIs using Swagger.
