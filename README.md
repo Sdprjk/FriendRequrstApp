@@ -1,4 +1,4 @@
-# FriendRequrstApp
+# FriendRequestApp
 Installation
 
 Step 1: Clone the Repository
